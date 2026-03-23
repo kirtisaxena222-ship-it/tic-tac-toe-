@@ -1,4 +1,9 @@
 # 🎮 Tic Tac Toe (C++)
+# 🎮 Tic Tac Toe (C++)
+
+💼 Open for internships and freelance work  
+
+A simple console-based Tic Tac Toe game built using C++.
 
 ## 📌 Description
 This is a simple Tic Tac Toe game built using C++.  
@@ -28,6 +33,7 @@ Two players can play the game in the console.
 
 ---
 
+
 ## 📷 Output
 ![IMG_20260323_074537](https://github.com/user-attachments/assets/49f28685-83bd-4368-b143-d0f98244c7b2)
 
@@ -40,5 +46,14 @@ Two players can play the game in the console.
 - Improve UI  
 
 ---
+## 🧠 What I Learned
+- Implementing game logic in C++  
+- Using loops and conditions effectively  
+- Handling user input  
+- Designing simple game flow
+- ## 💡 Future Improvements
+- Add single-player mode (AI)
+- Improve UI design
+- Add score tracking
 
 ⭐ If you like this project, give it a star!
