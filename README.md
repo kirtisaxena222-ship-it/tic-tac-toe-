@@ -1,31 +1,43 @@
-# tic-tac-toe-
-tic tak toe game 
-# ❌⭕ Tic Tac Toe (C++)
+# 🎮 Tic Tac Toe (C++)
 
-A simple 2-player console-based Tic Tac Toe game built using C++.
+## 📌 Description
+This is a simple Tic Tac Toe game built using C++.  
+Two players can play the game in the console.
 
-## Features
-- 2 Player Mode (X vs O)
-- Win Detection
-- Draw Detection
-- Input Validation
+---
 
-## Concepts Used
-- Arrays (2D Array)
-- Functions
-- Loops
-- Conditional Statements
-- Basic Game Logic
+## 🚀 Features
+- Two-player mode  
+- Turn-based gameplay  
+- Winner detection  
+- Draw detection  
 
-## How to Run
+---
 
-Compile:
-g++ main.cpp -o tictactoe
-screen shot
-X | O | X
------------
- O | X | O
------------
- X |   | O
-Run:
-./tictactoe
+## 🛠️ Tech Used
+- C++
+
+---
+
+## ▶️ How to Run
+1. Compile the program:
+   g++ filename.cpp -o game
+
+2. Run the game:
+   ./game
+
+---
+
+## 📷 Output
+
+
+---
+
+## 💡 Future Improvements
+- Add single-player mode  
+- Add AI opponent  
+- Improve UI  
+
+---
+
+⭐ If you like this project, give it a star!
