@@ -21,6 +21,11 @@ A simple 2-player console-based Tic Tac Toe game built using C++.
 
 Compile:
 g++ main.cpp -o tictactoe
-
+screen shot
+X | O | X
+-----------
+ O | X | O
+-----------
+ X |   | O
 Run:
 ./tictactoe
